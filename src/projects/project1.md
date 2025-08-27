@@ -9,4 +9,4 @@ tags: projects
 Here’s the full description of **Project One**.  
 You can write in Markdown as usual.
 
-![Project One Screenshot](/images/project1.jpg)
+![Project One Screenshot](/imgs/Screenshot%202025-08-27%20at%2012.18.36.png)
