@@ -14,6 +14,9 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/css/");
     eleventyConfig.addPassthroughCopy("./imgs/");
     eleventyConfig.addWatchTarget("./src/css/");
+    eleventyConfig.addCollection("testBlog", function(collectionApi) {
+    return collectionApi.getFilteredByTag("testBlog");
+  });
   return { 
     dir: { 
       input: 'src',

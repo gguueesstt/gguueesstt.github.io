@@ -1,16 +1,24 @@
 {% extends "base.njk" %}
 {% block content %}
-<h1>{{ title }}</h1>
+<h1>Projects</h1>
 
-<ul>
+<div class="project-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem;">
+
   {% for project in collections.projects %}
-    <li>
-      <a href="{{ project.url }}">{{ project.data.title }}</a>
-      {% if project.data.description %}
-        <p>{{ project.data.description }}</p>
-      {% endif %}
-    </li>
+  <div class="project-card" style="border: 1px solid #ccc; border-radius: 8px; padding: 1rem;">
+    {% if project.data.image %}
+    <a href="{{ project.url }}"><img src="{{ project.data.image }}" alt="{{ project.data.title }}" style="width:100%; height:auto; border-radius:4px;"></a>
+    {% endif %}
+    
+    <h2>{{ project.data.title }}</h2>
+    
+    {% if project.data.description %}
+    <p>{{ project.data.description }}</p>
+    {% endif %}
+    
+  </div>
   {% endfor %}
-</ul>
+
+</div>
 
 {% endblock %}

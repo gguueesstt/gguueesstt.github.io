@@ -6,7 +6,8 @@ description: A short blurb about this project.
 tags: projects
 ---
 
-Here’s the full description of **Project One**.  
-You can write in Markdown as usual.
+# Columbo 
+
+My hero 
 
 ![Project One Screenshot](/imgs/p184135_b_v13_af.jpg)
