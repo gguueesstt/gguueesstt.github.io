@@ -3,6 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <title>Projects</title>
+  <link rel="stylesheet" href="/css/style.css">
+
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     body {
@@ -39,8 +41,12 @@
     }
   </style>
 </head>
+<script src="/js/pattern.js" defer></script>
 <body>
-  <header>
+<!-- Canvas for background animations -->
+  <canvas id="patternCanvas"></canvas>
+
+  <header class="card">
     <div style="display:flex; justify-content:space-between; align-items:center;">
       <div>
         <h1 style="margin:0;">guest</h1>
@@ -59,12 +65,17 @@
 
   <main>
      
-<h1>Projects</h1>
 
 <div class="project-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem;">
 
   
-  <div class="project-card" style="border: 1px solid #ccc; border-radius: 8px; padding: 1rem;">
+  <div class="project-card" style="
+      background: white;       /* solid white background */
+      border: 1px solid #ccc;  /* light border */
+      border-radius: 8px;      /* soft corners */
+      padding: 1rem;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* subtle shadow */
+  ">
     
     <a href="/projects/project1/"><img src="/imgs/Screenshot%202025-08-27%20at%2012.18.36.png" alt="Screenshot Test" style="width:100%; height:auto; border-radius:4px;"></a>
     
@@ -72,12 +83,18 @@
     <h2>Screenshot Test</h2>
     
     
-    <p>A short blurb about this project.</p>
+    <p>blurb</p>
     
     
   </div>
   
-  <div class="project-card" style="border: 1px solid #ccc; border-radius: 8px; padding: 1rem;">
+  <div class="project-card" style="
+      background: white;       /* solid white background */
+      border: 1px solid #ccc;  /* light border */
+      border-radius: 8px;      /* soft corners */
+      padding: 1rem;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* subtle shadow */
+  ">
     
     <a href="/projects/project2/"><img src="/imgs/p184135_b_v13_af.jpg" alt="Columbo" style="width:100%; height:auto; border-radius:4px;"></a>
     
@@ -85,7 +102,7 @@
     <h2>Columbo</h2>
     
     
-    <p>A short blurb about this project.</p>
+    <p>one more thing</p>
     
     
   </div>
@@ -96,7 +113,7 @@
 
   </main>
 
-  <footer>
+  <footer class="card">
     <p>&copy; 2025 Jasmine Butt</p>
   </footer>
 </body>

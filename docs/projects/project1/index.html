@@ -3,6 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <title>Screenshot Test</title>
+  <link rel="stylesheet" href="/css/style.css">
+
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     body {
@@ -39,8 +41,12 @@
     }
   </style>
 </head>
+<script src="/js/pattern.js" defer></script>
 <body>
-  <header>
+<!-- Canvas for background animations -->
+  <canvas id="patternCanvas"></canvas>
+
+  <header class="card">
     <div style="display:flex; justify-content:space-between; align-items:center;">
       <div>
         <h1 style="margin:0;">guest</h1>
@@ -59,16 +65,17 @@
 
   <main>
      
-<article>
-  <h1>Screenshot Test</h1>
+
+<div class="page-card">
   <p>Blah</p>
 <p><img src="/imgs/Screenshot%202025-08-27%20at%2012.18.36.png" alt="Project One Screenshot"></p>
 
-</article>
+</div>
+
 
   </main>
 
-  <footer>
+  <footer class="card">
     <p>&copy; 2025 Jasmine Butt</p>
   </footer>
 </body>

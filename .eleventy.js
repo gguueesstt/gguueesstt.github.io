@@ -12,6 +12,7 @@ module.exports = function (eleventyConfig) {
   return collectionApi.getAll().filter(item => item.data.tags && item.data.tags.includes("projects"));
 });
     eleventyConfig.addPassthroughCopy("./src/css/");
+    eleventyConfig.addPassthroughCopy("src/js");
     eleventyConfig.addPassthroughCopy("./imgs/");
     eleventyConfig.addWatchTarget("./src/css/");
     eleventyConfig.addCollection("testBlog", function(collectionApi) {

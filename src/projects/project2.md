@@ -2,7 +2,7 @@
 layout: page.njk
 title: Columbo
 image: /imgs/p184135_b_v13_af.jpg
-description: A short blurb about this project.
+description: one more thing
 tags: projects
 ---
 
