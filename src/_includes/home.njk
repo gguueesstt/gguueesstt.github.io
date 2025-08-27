@@ -1,15 +1,16 @@
 {% extends "base.njk" %}
 {% block content %}
 <h1>{{ title }}</h1>
-<div class="grid">
+
+<ul>
   {% for project in collections.projects %}
-    <div>
-      <a href="{{ project.url }}">
-        <img src="{{ project.data.image }}" alt="{{ project.data.title }}">
-      </a>
-      <h2><a href="{{ project.url }}">{{ project.data.title }}</a></h2>
-      <p>{{ project.data.description }}</p>
-    </div>
+    <li>
+      <a href="{{ project.url }}">{{ project.data.title }}</a>
+      {% if project.data.description %}
+        <p>{{ project.data.description }}</p>
+      {% endif %}
+    </li>
   {% endfor %}
-</div>
+</ul>
+
 {% endblock %}
