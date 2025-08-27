@@ -1,6 +1,6 @@
 ---
 title: Page 3
-layout: base.njk
+layout: layouts/base.njk
 ---
 
 # Well Done for finding this page 

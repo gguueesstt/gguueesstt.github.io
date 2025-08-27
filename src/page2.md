@@ -1,6 +1,6 @@
 ---
 title: Page 2
-layout: base.njk
+layout: layouts/base.njk
 ---
 
 [homepage](/index/)

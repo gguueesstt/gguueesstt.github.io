@@ -1,12 +1,6 @@
 ---
-title: Homepage
-layout: base.njk
+layout: home.njk
+title: Projects
 ---
 
-# Hello 
-## Welcome 
-To my site
-
-
-
-[go to page 2](/page2/)
+Welcome to my projects.
