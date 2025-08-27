@@ -9,18 +9,39 @@
 }
 
 .project-card {
-  background: white;
-  border: 1px solid #ccc;
-  border-radius: 8px;
+  position: relative;                
+  background: white;  /* slightly transparent for blend mode */
+  border-radius: 12px;               
   padding: 1rem;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  overflow: hidden;                  
+  z-index: 3; 
+  mix-blend-mode: difference;                       
 }
+
+.project-card > * {
+  position: relative;
+  z-index: 4;   /* higher than pseudo-element so content shows above border */
+}
+
+.project-card::before {
+  content: "";          
+  position: absolute;   
+  top: -6px;
+  left: -6px;
+  right: -6px;
+  bottom: -6px;
+  border-radius: 18px;
+  border: 6px solid black;
+  mix-blend-mode: difference;
+  pointer-events: none;
+  z-index: 2;   /* below content but above card background */
+}
+
 
 .card {
   background: rgba(255, 255, 255, 1); /* slightly transparent white */
   border-radius: 12px;                   /* soft corners */
   padding: 1rem 1.5rem;                  /* space inside */
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); /* subtle shadow */
   margin-bottom: 1.5rem;                 /* space between cards */
 }
 
@@ -28,7 +49,6 @@
   background: white;                 /* solid white background */
   border-radius: 12px;               /* soft corners */
   padding: 2rem;                     /* inner spacing */
-  box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* subtle shadow */
   margin: 2rem auto;                 /* space above and below, center horizontally */
   max-width: 800px;                  /* same as header/content width */
 }

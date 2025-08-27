@@ -4,13 +4,7 @@
 <div class="project-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem;">
 
   {% for project in collections.projects %}
-  <div class="project-card" style="
-      background: white;       /* solid white background */
-      border: 1px solid #ccc;  /* light border */
-      border-radius: 8px;      /* soft corners */
-      padding: 1rem;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* subtle shadow */
-  ">
+  <div class="project-card">
     {% if project.data.image %}
     <a href="{{ project.url }}"><img src="{{ project.data.image }}" alt="{{ project.data.title }}" style="width:100%; height:auto; border-radius:4px;"></a>
     {% endif %}
