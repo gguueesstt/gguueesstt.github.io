@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 title: Project One
-image: /images/project1.jpg
+image: /imgs/project1.jpg
 description: A short blurb about this project.
 tags: projects
 ---
