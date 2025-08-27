@@ -17,8 +17,9 @@ function randomSpeed(min = 0.2, max = 0.5) {
 
 // Parameters
 const numCircles = 5;      // Number of moving bullseyes
-const ringThickness = 4;    // Thickness of each black ring
-const maxRadius = 300;      // Maximum radius of bullseye
+const ringsPerCircle = 30;
+const ringThickness = 3;    // Thickness of each black ring
+const maxRadius = 200;      // Maximum radius of bullseye
 
 // Create moving circles
 let circles = [];
