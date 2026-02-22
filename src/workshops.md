@@ -2,6 +2,8 @@
 layout: page.njk
 title: Workshops
 ---
+
+
 **<span style="color: #999;">2026</span>**  
 - [Girls in Tech](https://girlsintechuk.com/) - Pattern Organ workshop, UWE, Bristol
 
