@@ -14,8 +14,7 @@
   border-radius: 12px;               
   padding: 1rem;
   overflow: hidden;                  
-  z-index: 3; 
-  mix-blend-mode: normal;                       
+  z-index: 3;                      
 }
 
 .project-card > * {
@@ -32,9 +31,8 @@
   bottom: -6px;
   border-radius: 18px;
   border: 6px solid black;
-  mix-blend-mode: normal;
   pointer-events: none;
-  z-index: 2;   /* below content but above card background */
+  z-index: 1;   /* below content but above card background */
 }
 
 
