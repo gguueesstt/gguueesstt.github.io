@@ -40,6 +40,7 @@
   border-radius: 12px;                   /* soft corners */
   padding: 1rem 1.5rem;                  /* space inside */
   margin-bottom: 1.5rem;                 /* space between cards */
+  border: 1px solid white; 
 }
 
 .page-card {
@@ -48,4 +49,5 @@
   padding: 2rem;                     /* inner spacing */
   margin: 2rem auto;                 /* space above and below, center horizontally */
   max-width: 800px;                  /* same as header/content width */
+  border: 1px solid white; 
 }
