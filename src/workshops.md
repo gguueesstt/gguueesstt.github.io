@@ -4,6 +4,7 @@ title: Workshops
 ---
 
 
+
 **<span style="color: #999;">2026</span>**  
 - [Girls in Tech](https://girlsintechuk.com/) - Pattern Organ workshop, UWE, Bristol
 
@@ -23,12 +24,12 @@ title: Workshops
 
 **<span style="color: #999;">2023</span>**  
 - [Drawing sound networks workshop](https://control-shift.io/events/feeling-machines/drawing-sound-networks/), PRRRRRT! Ctrl Shift, Bricks, Bristol  
-- [Build a drum machine workshop](), Saffron, Pervasive Media Studio  
-- [Modular Synthesiser workshop](https://saffronmusic.co.uk/projects/artist-development/), Saffron Artist development retreat
+- [Build a drum machine workshop](), Saffron, Pervasive Media Studio, Bristol  
+- [Modular Synthesiser workshop](https://saffronmusic.co.uk/projects/artist-development/), Saffron Artist development retreat, Frome
 
 **<span style="color: #999;">2022</span>**  
 - [Magnum Percussion Instrument building workshop](https://www.headfirstbristol.co.uk/whats-on/arnolfini/sun-29-may-magnum-percussion-instrument-workshop-74408#e74408), Arnolfini, Bristol  
-- [Facesiren workshop](https://www.headfirstbristol.co.uk/whats-on/arnolfini/sun-29-may-facesiren-workshop-74410#e74410), PRRRRRT! Bristol New Music, Arnolfini
+- [Facesiren workshop](https://www.headfirstbristol.co.uk/whats-on/arnolfini/sun-29-may-facesiren-workshop-74410#e74410), PRRRRRT! Bristol New Music, Arnolfini, Bristol
 
 **<span style="color: #999;">2019</span>**  
 - [Synth making and e-textiles workshop](https://www.headfirstbristol.co.uk/whats-on/beef-pennywell-studios/sun-8-dec-synth-making-e-textiles-workshop-with-prrrrrt-58637#e58637), PRRRRRT! Pennywell St, Bristol
