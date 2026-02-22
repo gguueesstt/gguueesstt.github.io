@@ -3,7 +3,7 @@ layout: page.njk
 title: Workshops
 ---
 
-
+![Workshops at Knowle West Media Centre, Pervasive Media Centre and Pre-CHI](/imgs/photo-collage.png)
 
 **<span style="color: #999;">2026</span>**  
 - [Girls in Tech](https://girlsintechuk.com/) - Pattern Organ workshop, UWE, Bristol
