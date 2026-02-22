@@ -3,4 +3,6 @@ layout: page.njk
 title: Contact
 ---
 
-This is a test Hello 
+jasmine.butt@uwe.ac.uk
+jasminembutt@gmail.com
+Instagram: @ggguuueeesssttt 

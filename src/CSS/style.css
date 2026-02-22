@@ -15,7 +15,7 @@
   padding: 1rem;
   overflow: hidden;                  
   z-index: 3; 
-  mix-blend-mode: difference;                       
+  mix-blend-mode: exclusion;                       
 }
 
 .project-card > * {

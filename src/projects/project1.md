@@ -1,11 +1,13 @@
 ---
 layout: page.njk
-title: Screenshot Test
-image: /imgs/Screenshot%202025-08-27%20at%2012.18.36.png
-description: blurb
+title: Pattern Organ
+image: /imgs/Pattorgan2025.png
+description: A digital optical sound instrument
 tags: projects
 ---
 
-Blah
+The pattern organ is an instrument 
 
-![Project One Screenshot](/imgs/Screenshot%202025-08-27%20at%2012.18.36.png)
+![Project One Screenshot](/imgs/Pattorgan2025.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BKMYQTOBU0E?si=ohKZCTDi6pJnbn2_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
