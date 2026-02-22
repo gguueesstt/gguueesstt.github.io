@@ -1,6 +1,6 @@
 ---
 layout: page.njk
-title: BellFlower
+title: DIY film looper
 image: /imgs/Pattorgan2025.png
 description: one more thing
 tags: projects

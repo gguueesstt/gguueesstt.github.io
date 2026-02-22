@@ -1,6 +1,6 @@
 ---
 layout: page.njk
-title: BellFlower
+title: Exciter
 image: /imgs/Pattorgan2025.png
 description: one more thing
 tags: projects
