@@ -4,6 +4,7 @@ title: Exciter
 image: /imgs/EXCITER1
 description: one more thing
 tags: projects
+order: 4
 ---
 
 
