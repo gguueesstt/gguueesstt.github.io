@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 title: Exciter
-image: /imgs/Exciter1
+image: /imgs/Exciter1.png
 description: one more thing
 tags: projects
 order: 4
