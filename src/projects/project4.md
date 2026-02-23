@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 title: Exciter
-image: /imgs/Pattorgan2025.png
+image: /imgs/EXCITER1
 description: one more thing
 tags: projects
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 title: Bell Ensemble
-image: /imgs/Pattorgan2025.png
+image: /imgs/IMG_3870.jpg
 description: one more thing
 tags: projects
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page.njk
-title: DIY film looper
-image: /imgs/Guest_200129_L1001514_1800_ONLINE.jpg
+title: Optical Sound Hackathon
+image: /imgs/IMG_3361.jpg
 description: one more thing
 tags: projects
 ---
