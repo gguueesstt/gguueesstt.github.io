@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 title: DIY frame by frame 16mm printer
-image: /imgs/Pattorgan2025.png
+image: /imgs/Darkroomsetup2.png
 description: one more thing
 tags: projects
 order: 5
