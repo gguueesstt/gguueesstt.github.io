@@ -2,9 +2,10 @@
 layout: page.njk
 title: Exciter
 image: /imgs/Exciter1.png
-description: one more thing
+description: An optical sound film, made with moirée patterns
 tags: projects
 order: 4
+permalink: /Exciter/
 ---
 
 

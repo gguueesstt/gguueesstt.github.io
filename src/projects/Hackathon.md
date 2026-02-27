@@ -2,9 +2,10 @@
 layout: page.njk
 title: Optical Sound Hackathon
 image: /imgs/IMG_3361.jpg
-description: one more thing
+description: A weekend of entangled optical sound experiments, 2025
 tags: projects
 order: 2
+permalink: /hackathon/
 ---
 
 

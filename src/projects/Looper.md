@@ -2,9 +2,10 @@
 layout: page.njk
 title: DIY film looper
 image: /imgs/Guest_200129_L1001514_1800_ONLINE.jpg
-description: one more thing
+description: For looping up to 100ft of film
 tags: projects
 order: 6
+permalink: /looper/
 ---
 
 

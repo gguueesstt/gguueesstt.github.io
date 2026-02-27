@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DIY frame by frame 16mm printer</title>
+  <link rel="stylesheet" href="/css/style.css">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Helvetica, Arial, sans-serif;
+      margin: 2rem auto;
+      max-width: 800px;
+      line-height: 1.6;
+      color: black;
+      background: white;
+    }
+    header, footer {
+      margin: 2rem 0;
+      padding: 1rem 0;
+      border-top: 1px solid #ddd;
+      border-bottom: 1px solid #ddd;
+    }
+    header nav a {
+      margin-left: 1rem;
+      text-decoration: none;
+      color: black;
+    }
+    header nav a:hover {
+      text-decoration: underline;
+    }
+    img {
+      max-width: 100%;
+      display: block;
+      margin: 1rem 0;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+    }
+  </style>
+</head>
+<script src="/js/pattern.js" defer></script>
+<body>
+<!-- Canvas for background animations -->
+  <canvas id="patternCanvas"></canvas>
+
+  <header class="card">
+    <div style="display:flex; justify-content:space-between; align-items:center;">
+      <div>
+        <h1 style="margin:0;">guest</h1>
+        <p style="margin:0;">light, sound and film</p>
+      </div>
+      <nav>
+        <a href="/">projects</a>
+        <a href="/about/">about</a>
+        <a href="/performances/">performances</a>
+        <a href="/workshops/">workshops</a>
+        <a href="/research/">research</a>
+        <a href="/contact/">contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+     
+
+<div class="page-card">
+  <p>I've been experimenting with exposing digital moving image files to film frame by frame, using my phone and an enlarger lens. It has been a real pain to get this close to working, but it'll be worth it as it lets you print exposures into the soundtrack area! It also means, with some careful calibration, you can get rid of the 24hz frameline pulse. Although I haven't quite managed this yet as you can see from the film strip pictures towards the end of this page.</p>
+<p><img src="/imgs/IMG_4528copy.jpg" alt="Enlarger setup"></p>
+<p>Above is an image of the setup, although this one is using an older Touch Designer patch (which is resolution-limited in the free version).<br>
+Below is a newer pure data patch, that is free to use and share. You can find it here: <a href="https://github.com/gguueesstt/Frame-printer/">https://github.com/gguueesstt/Frame-printer/</a></p>
+<p><img src="/imgs/PD_Screenshot.png" alt="PdPatch"></p>
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+  <img src="/imgs/enlarger3site.jpg" alt="Image 1" width="200">
+  <img src="/imgs/enlarger4site.jpg" alt="Image 2" width="200">
+  <img src="/imgs/enlarger6site.jpg" alt="Image 3" width="200">
+</div>
+<p>I am still figuring out the best way of shifting the film frame by frame. One day I will build a stepper motor transport mechanism, but for now, I am using an old piece of 16mm film equipment that I inherited from Hogge (<a href="https://www.nachleben.org.uk/">nachleben film lab</a>) when me and a friend moved into his studio. This piece of metal is really useful, as it uncovers the gate with a little room but not too much (which saves me from too much fogging). It also uncovers a few perfs, allowing me to shift the frames along with my perf grabber (A knob glued to a PCB, with a 1 pin header soldered to it).
+This chance piece of film transport has inspired some plans for future lasercut hand &gt; driven transports, which I'm working on at the moment. Ideally I would be 3D printing enclosed daylight reel holders, so that the only light that reaches the film is on the currently bared frame. But I'm a little way off from that.</p>
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+  <img src="/imgs/IMG_4544copy.jpeg" alt="Image 1" width="400">
+  <img src="/imgs/IMG_4547copy.jpeg" alt="Image 2" width="400">
+</div>
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+  <img src="/imgs/IMG_4550copy.jpeg" alt="Image 1" width="400">
+  <img src="/imgs/IMG_4551copy.jpg" alt="Image 2" width="400">
+</div>
+<p>The bottom two images are test strips from the <a href="gguueesstt.github.io/projects/exciter/">EXCITER</a> series, made from scans of moirée patterns from <a href="https://www.goodreads.com/book/show/2446119.Optical_Designs_in_Motion_with_Moire_Overlays">this book</a></p>
+
+</div>
+
+
+  </main>
+
+  <footer class="card">
+    <p>&copy; 2026 Jasmine Butt</p>
+  </footer>
+</body>
+</html>

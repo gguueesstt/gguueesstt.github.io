@@ -5,6 +5,7 @@ image: /imgs/Pattorgan2025.png
 description: A digital optical sound instrument
 tags: projects
 order: 1
+permalink: /Pattern-Organ/
 ---
 
 The pattern organ is an instrument 
