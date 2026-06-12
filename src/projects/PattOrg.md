@@ -20,6 +20,12 @@ More information on the pattern organ and its design can be found in these resea
 
 The Pure Data patch (which is open source), can be found on [github](https://github.com/gguueesstt/pattern-organ)
 
+![Knowle West Media Centre Workshop](/imgs/photo-collage.png)
+Knowle West Media Centre Workshop, 2024
+
+![NIME'24 Workshop](/imgs/SHADOWweb.jpg)
+NIME'24 Workshop, 2024
+
 The pattern organ has been used in a number of workshops and performances. Below is a video from a performance at Margin Forever, Cube Cinema, 2025. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BKMYQTOBU0E?si=ohKZCTDi6pJnbn2_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
