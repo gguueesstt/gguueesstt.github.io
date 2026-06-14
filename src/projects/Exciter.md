@@ -4,7 +4,7 @@ title: Exciter
 image: /imgs/Exciter1.png
 description: An optical sound film, made with moirée patterns
 tags: projects
-order: 4
+order: 3
 permalink: /Exciter/
 ---
 

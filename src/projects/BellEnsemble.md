@@ -3,8 +3,8 @@ layout: page.njk
 title: Bell Ensemble
 image: /imgs/IMG_3870.jpg
 description: A collaboration with Copper Sounds and Sarahsson
-tags: projects
-order: 3
+tags: 
+order: 
 permalink: /Bell-Ensemble/
 ---
 

@@ -4,7 +4,7 @@ title: DIY frame by frame 16mm printer
 image: /imgs/IMG_4528copy.jpg
 description: For printing digital moving images files onto film (and soundtrack)
 tags: projects
-order: 5
+order: 4
 permalink: /frameprinter/
 ---
 

@@ -4,7 +4,7 @@ title: DIY film looper
 image: /imgs/Guest_200129_L1001514_1800_ONLINE.jpg
 description: For looping up to 100ft of film
 tags: projects
-order: 6
+order: 5
 permalink: /looper/
 ---
 

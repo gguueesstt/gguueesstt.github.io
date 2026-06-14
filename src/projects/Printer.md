@@ -3,8 +3,8 @@ layout: page.njk
 title: DIY optical printer
 image: /imgs/Pattorgan2025.png
 description: A motorised sync block for optical printing 
-tags: projects
-order: 7
+tags: 
+order: 
 permalink: /printer/
 ---
 
