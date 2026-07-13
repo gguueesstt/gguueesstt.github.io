@@ -11,7 +11,7 @@ permalink: /SoundInSilver/
 
 Sound In Silver is a zine and 16mm film compilation, compiled for NIME'26, as an alt.NIME submission. The alt.NIME track is a new addition to the international conference for new interfaces for musical expression. It comes in reaction to the discontinuation of alt.chi, "a forum for controversial, risk-taking, and boundary-pushing research” at CHI, the conference for Human Factors in Computing Systems. This track promotes unconventional contributions, that choose an alternative format, submission and presentation, worrying at the boundaries of what NIME is and can be.
 
-![Image of zine](imgs/6c6ab8f7-db0b-4cdb-8bf4-f9aa3a33b83f 2.JPG)
+![Image of zine](imgs/6c6ab8f7-db0b-4cdb-8bf4-f9aa3a33b83f2.JPG)
 Image of risographed zine
 
 This work was a collaboration between myself, Graeme Hogg, Jennifer Wicks, Kathy Hinde, Matt Dacies, Melanie Clifford, Vicky Smith, Lewis Heriz and Enrique del Castillo.
@@ -20,18 +20,18 @@ The intention of this collaboratively made zine and screening was to share the w
 filmmakers. Sharing a small corner of a much wider world of contemporary practice, we present photochemical optical
 sound not as a heritage medium, but as a continually shifting material sound system shaped through slow process, touch and material inscription.
 
-![Image of zine](imgs/41465938-0ab0-41d9-bfa4-52971358160e 2.JPG)
+![Image of zine](imgs/41465938-0ab0-41d9-bfa4-52971358160e2.JPG)
 Image of zine printing and finishing at 16 tonne press
 
 Enrique Del Castillo and Graeme Hogg contributed to the zine only, although Graeme Hogg made prints of certain contributions using his Steenbeck-turned-contact printer. Every other contributor submitted work to both zine and the 16mm film collage.
 
-The zine is accessible in a larger format here: ![https://drive.google.com/drive/folders/1FV_UIvSz1iEjmZZDp4SpFV8pHB-0xFKp] and embedded within the pages below. Images and text were printed, hand cut, arranged and cut by myself and Dave Howell.  
+The zine is accessible in a larger format [here](https://drive.google.com/drive/folders/1FV_UIvSz1iEjmZZDp4SpFV8pHB-0xFKp) and embedded within the pages below. Images and text were printed, hand cut, arranged and cut by myself and Dave Howell.  
 
-A film of the 16mm screening installation can be found here: ![https://drive.google.com/file/d/1dOkEFFHdNeBKvTL8VEf9QvguRW4zAmdQ] 
-Another film with different examples of the author's work, further illuminating optical sound practices can be found here: ![https://drive.google.com/file/d/1-GlqyrkMXggyoqZnTn11fK7J6PBizJrI] 
+A film of the 16mm screening installation can be found [here](https://drive.google.com/file/d/1dOkEFFHdNeBKvTL8VEf9QvguRW4zAmdQ).
+Another film with different examples of the author's work, further illuminating optical sound practices can be found [here](https://drive.google.com/file/d/1-GlqyrkMXggyoqZnTn11fK7J6PBizJrI).
 
 
-![Image of installation](imgs/IMG_4899 2.jpg)
+![Image of installation](imgs/IMG_48992.jpg)
 NIME 16mm film screening installation
 
 The film comprises of 7 excerpts from the following works: 
@@ -51,7 +51,7 @@ The film comprises of 7 excerpts from the following works:
 We thank Dave Howell (Six of Swords), 16 Tonne Press, Nachleben Film Lab, UWE's CT Lab, BEEF, Lew Gardiner, David Leicester and Rachel Deakin for their help in producing and installing this work. 
 
 
-![DIY film Looper](imgs/IMG_4907 2.jpg)
+![DIY film Looper](imgs/IMG_49072.jpg)
 DIY film Looper set up at NIME 
 
 ZINE SCANS: 
