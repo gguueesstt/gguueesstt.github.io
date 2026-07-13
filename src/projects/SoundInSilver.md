@@ -11,17 +11,17 @@ permalink: /SoundInSilver/
 
 Sound In Silver is a zine and 16mm film compilation, compiled for NIME'26, as an alt.NIME submission. The alt.NIME track is a new addition to the international conference for new interfaces for musical expression. It comes in reaction to the discontinuation of alt.chi, "a forum for controversial, risk-taking, and boundary-pushing research” at CHI, the conference for Human Factors in Computing Systems. This track promotes unconventional contributions, that choose an alternative format, submission and presentation, worrying at the boundaries of what NIME is and can be.
 
-![Image of zine](imgs/Zine1.JPG)
-Image of risographed zine
+![Image of zine](/imgs/Zine1.JPG)
+*Image of risographed zine*
 
-This work was a collaboration between myself, Graeme Hogg, Jennifer Wicks, Kathy Hinde, Matt Dacies, Melanie Clifford, Vicky Smith, Lewis Heriz and Enrique del Castillo.
+This work was a collaboration between myself, [Graeme Hogg](https://www.nachleben.org.uk/), [Jennifer Wicks](https://www.nachleben.org.uk/), [Kathy Hinde](https://kathyhinde.co.uk/), [Matt Davies](https://audiblefields.com/), [Melanie Clifford](https://melanieclifford.net/), [Vicky Smith](lux.org.uk/artist/vicky-smith/), [Lewis Heriz](https://lewisheriz.com/) and [Enrique del Castillo](https://vimeo.com/user17379073).
 
 The intention of this collaboratively made zine and screening was to share the works of the experimental film community, through distribution of printed works as well as in-person experiences of 16mm optical sound films. The zines and film were primarily made for NIME 2026, but the zines are to be further distributed among individual artist filmmakers, collectives and film labs. The film will be screened at future events facilitated by the photochemical experimental film community. The body of work collates 16mm film strips and details of tools and processes from a collection of optical sound
 filmmakers. Sharing a small corner of a much wider world of contemporary practice, we present photochemical optical
 sound not as a heritage medium, but as a continually shifting material sound system shaped through slow process, touch and material inscription.
 
 ![Image of zine](/imgs/Zine2.JPG)
-Image of zine printing and finishing at 16 tonne press
+*Image of zine printing and finishing at 16 tonne press*
 
 Enrique Del Castillo and Graeme Hogg contributed to the zine only, although Graeme Hogg made prints of certain contributions using his Steenbeck-turned-contact printer. Every other contributor submitted work to both zine and the 16mm film collage.
 
@@ -32,7 +32,7 @@ Another film with different examples of the author's work, further illuminating 
 
 
 ![Image of installation](/imgs/SISInstallation.jpg)
-NIME 16mm film screening installation
+*NIME 16mm film screening installation*
 
 The film comprises of 7 excerpts from the following works: 
 
@@ -52,7 +52,7 @@ We thank Dave Howell (Six of Swords), 16 Tonne Press, Nachleben Film Lab, UWE's 
 
 
 ![DIY film Looper](/imgs/SISLooper.jpg)
-DIY film Looper set up at NIME 
+*DIY film Looper set up at NIME* 
 
 ZINE SCANS: 
 
