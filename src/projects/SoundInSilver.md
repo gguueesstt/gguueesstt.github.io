@@ -14,7 +14,7 @@ Sound In Silver is a zine and 16mm film compilation, compiled for NIME'26, as an
 ![Image of zine](/imgs/Zine1.JPG)
 *Image of risographed zine*
 
-This work was a collaboration between myself, [Graeme Hogg](https://www.nachleben.org.uk/), [Jennifer Wicks](https://www.nachleben.org.uk/), [Kathy Hinde](https://kathyhinde.co.uk/), [Matt Davies](https://audiblefields.com/), [Melanie Clifford](https://melanieclifford.net/), [Vicky Smith](lux.org.uk/artist/vicky-smith/), [Lewis Heriz](https://lewisheriz.com/) and [Enrique del Castillo](https://vimeo.com/user17379073).
+This work was a collaboration between myself, [Graeme Hogg](https://www.nachleben.org.uk/), [Jennifer Wicks](https://www.nachleben.org.uk/), [Kathy Hinde](https://kathyhinde.co.uk/), [Matt Davies](https://audiblefields.com/), [Melanie Clifford](https://melanieclifford.net/), [Vicky Smith](lux.org.uk/artist/vicky-smith/), [Lewis Heriz](https://lewisheriz.com/) and [Enrique del Castillo](https://vimeo.com/user17379073). It was made with support from UWE's CT Lab.
 
 The intention of this collaboratively made zine and screening was to share the works of the experimental film community, through distribution of printed works as well as in-person experiences of 16mm optical sound films. The zines and film were primarily made for NIME 2026, but the zines are to be further distributed among individual artist filmmakers, collectives and film labs. The film will be screened at future events facilitated by the photochemical experimental film community. The body of work collates 16mm film strips and details of tools and processes from a collection of optical sound
 filmmakers. Sharing a small corner of a much wider world of contemporary practice, we present photochemical optical
