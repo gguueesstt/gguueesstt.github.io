@@ -12,6 +12,8 @@ The pattern organ is a camera-based digital musical instrument, that uses a rela
 
 ![Project One Screenshot](/imgs/Pattorgan2025.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o4tBzN4ztfc?si=-PIwyadwgGvb0wjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 More information on the pattern organ and its design can be found in these research papers: 
 - [Entangling with Light and Shadow](https://nime.org/proc/nime2025_7/index.html), NIME'25, Utrecht, Netherlands
 - [Harmonic Materials](https://dl.acm.org/doi/10.1145/3771594.3771606), AM.ICAD'25, Braga, Portugal

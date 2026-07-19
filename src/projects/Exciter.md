@@ -15,4 +15,5 @@ The first animation was made in TouchDesigner, using scans of a [book about moir
 
 I have screened EXCITER #1 at Kathy Hinde's [Drawing Sound](https://www.headfirstbristol.co.uk/whats-on/strange-brew/wed-23-nov-beef-presents-drawn-sound-w-ann-rosn-more-80950#e80950) event, a series of BEEF screenings at the cube, and at the Klinker Club in Frome. It is an ongoing project, and so the film will continue to be added to over time, hopefully the printing process will become more refined as the project progresses, and the sound space will become more varied, with more resolution for higher frequencies and less 24Hz modulation. 
 
-HERE I WILL LINK TO A TIME-STAMPED BIT OF THE VIDEO. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S52FIKNrECY?si=TfZ4Bl-ljVCchpjU&amp;start=707" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
